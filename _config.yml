@@ -1,0 +1,16 @@
+# Site settings
+title: shahbhavir
+email: shahbhavir@gmail.com
+description: "Enthusiast Programmer"
+baseurl: ""
+url: "http://shahbhavir.github.io"
+twitter_username: shahbhavir
+github_username: shahbhavir
+facebook_username: bhavir_123
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["node_modules"]
