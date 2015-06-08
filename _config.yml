@@ -6,7 +6,6 @@ baseurl: ""
 url: "http://shahbhavir.github.io"
 twitter_username: shahbhavir
 github_username: shahbhavir
-facebook_username: shahbhavir
 
 # Build settings
 markdown: kramdown
