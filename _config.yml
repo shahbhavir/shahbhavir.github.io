@@ -1,12 +1,12 @@
 # Site settings
 title: shahbhavir
 email: shahbhavir@gmail.com
-description: "Enthusiast Programmer"
+description: "An Enthusiast"
 baseurl: ""
 url: "http://shahbhavir.github.io"
 twitter_username: shahbhavir
 github_username: shahbhavir
-facebook_username: bhavir_123
+facebook_username: shahbhavir
 
 # Build settings
 markdown: kramdown
